@@ -1,0 +1,24 @@
+{
+  "name": "인증짤 만들기",
+  "short_name": "인증짤",
+  "description": "스크린샷과 화면 녹화 영상에 아이디 워터마크를 넣는 도구",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f0b24",
+  "theme_color": "#0f0b24",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
